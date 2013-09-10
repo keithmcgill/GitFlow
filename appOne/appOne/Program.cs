@@ -10,6 +10,13 @@ namespace appOne
 	{
 		static void Main(string[] args)
 		{
+
+		}
+
+		static void MyFunction()
+		{
+			//my function
+
 		}
 	}
 }
