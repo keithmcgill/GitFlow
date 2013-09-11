@@ -18,5 +18,10 @@ namespace appOne
 			//my function
 
 		}
+
+		static void NewFunction()
+		{
+			
+		}
 	}
 }
